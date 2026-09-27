@@ -1,0 +1,8 @@
+{
+  "name": "kala-cart",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev": "vercel dev"},
+  "dependencies": {"@supabase/supabase-js": "^2.57.4", "razorpay": "^2.9.6"},
+  "engines": {"node": ">=18"}
+}
